@@ -1,0 +1,21 @@
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Dashboard.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Login.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UCAddItem.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UCPlaceOrder.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UCRemoveItem.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UCUpdateItem.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\DGV2Printer.dll
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UCMangeEmployee.resources
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\AIUB\SEM 7\C#\Project final\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\AIUB\SEM 7\C#\Project final\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\USER\OneDrive - American International University-Bangladesh\Desktop\AIUB\SEM 7\C#\Project final\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
